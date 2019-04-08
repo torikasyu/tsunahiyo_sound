@@ -192,7 +192,7 @@ public class GameManager : torikasyu.SingletonMonoBehaviour<GameManager>
                 if (Input.GetKeyDown(KeyCode.Return) || OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
                 {
                     //nextGameState = enumGameState.WaitforStart;
-                    UnityEngine.SceneManagement.SceneManager.LoadScene("VR");
+                    UnityEngine.SceneManagement.SceneManager.LoadScene("SoundGame");
                 }
                 break;
             default:
