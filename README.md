@@ -1,6 +1,3 @@
-NCMB関連のアセットは、下記からダウンロードしてインストールしてください
+Oculus Integrationは別途AssetStoreからインストールしてください
 
-https://github.com/NIFCloud-mbaas/ncmb_unity/releases
-
-v4.0.0で動作確認しています
-
+Unity 2018.3.3f1で作成しています
